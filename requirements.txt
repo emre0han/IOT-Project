@@ -1,0 +1,7 @@
+adafruit-circuitpython-mpu6050
+pi-ina219
+Adafruit_DHT
+RPLCD
+pandas
+joblib
+requests
